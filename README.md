@@ -2,7 +2,7 @@
   Hi there 👋
 <h3/>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akramaznakour&show_icons=true&title_color=777777&hide_title=true&show_icons=true&icon_color=777777" />
+<img src="https://github-readme-stats.vercel.app/api?username=akramaznakour&show_icons=true&title_color=777777&hide_title=true&show_icons=true&icon_color=777777&hide=stars" />
 </p>
 <!--
 **AkramAznakour/AkramAznakour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
